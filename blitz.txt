@@ -1,0 +1,3 @@
+blitz.gg##.ads-container
+blitz.gg##iframe[src*="ads"]
+blitz.gg##.advertisement
